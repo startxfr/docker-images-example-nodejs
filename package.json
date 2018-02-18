@@ -1,0 +1,28 @@
+{
+  "name": "startx-nodejs-example",
+  "version": "0.0.1",
+  "description": "application example for nodejs app",
+  "author": "startx",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/startxfr/docker-images-example-nodejs/issues"
+  },
+  "private": false,
+  "dependencies": {
+    "express": "3.20.2",
+    "body-parser": "~1.12.3"
+  },
+  "keywords": [
+    "nodejs",
+    "example",
+    "startx"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/startxfr/docker-images-example-nodejs.git"
+  },
+  "scripts": {
+    "test": "app.js"
+  },
+  "main": "app.js"
+}
