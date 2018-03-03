@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "application example for nodejs app",
   "author": "startx",
-  "license": "BSD",
+  "license": "BSD-Source-Code",
   "bugs": {
     "url": "https://github.com/startxfr/docker-images-example-nodejs/issues"
   },
@@ -22,7 +22,7 @@
     "url": "https://github.com/startxfr/docker-images-example-nodejs.git"
   },
   "scripts": {
-    "test": "app.js"
+    "start": "app.js"
   },
   "main": "app.js"
 }
