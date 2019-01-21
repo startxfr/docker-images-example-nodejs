@@ -12,5 +12,4 @@ echoVerbose ""
 echoVerbose "+====================================================="
 echoVerbose "Sample nodejs application runtime"
 echoVerbose "+====================================================="
-
-exec /bin/sx-nodejs run
+startNodejsService
