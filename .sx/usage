@@ -14,3 +14,4 @@ echoVerbose "Sample nodejs application usage"
 echoVerbose "+====================================================="
 
 exec /bin/sx-nodejs usageS2i
+exit 0;
